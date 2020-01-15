@@ -1,6 +1,6 @@
 # project-ceshi
 
-## 参考：<a target="_bank" href="https://www.cnblogs.com/mary-123/p/12197253.html">https://www.cnblogs.com/mary-123/p/12197253.html</a>
+## 参考：<a target="_blank" href="https://www.cnblogs.com/mary-123/p/12197253.html">https://www.cnblogs.com/mary-123/p/12197253.html</a>
 
 ## Project setup
 ```
