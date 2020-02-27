@@ -1,8 +1,12 @@
 # project-ceshi
 
-## 步骤：<a target="_blank" href="https://www.cnblogs.com/mary-123/p/12197253.html">https://www.cnblogs.com/mary-123/p/12197253.html</a>
+# 启动 mysql
+     * 打开命令行直接输入 net start mysql 如无法启动进入mysql安装目录 比如 C:\MySQL\mysql-8.0.18-winx64\bin 中运行 net start mysql
+	 * 停止 mysql  net stop mysql
 
-## Project setup 
+# 启动node服务 进入server文件夹中命令行运行 node index
+
+## Project setup
 ```
 npm install
 ```
